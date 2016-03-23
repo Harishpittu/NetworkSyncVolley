@@ -1,3 +1,5 @@
 # NetworkSyncVolley
 VolleyNetworkCalls Made Easy
-hadsfa asdlfkjasdf alskdfjl asdfasdfasdfasdf adsfasd asdf asdf  asdf asdfa fasdf asdf asdf asdfasd fasdf asdf as dfasdfasfdafasdf 
+
+
+The library module networksyncvolley made Volley network calls is with single line of code.
